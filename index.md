@@ -2,9 +2,9 @@
 layout: default
 ---
 
-# joe cool
+# Felix Wöstmann
 
-### I'm a _digital thought leader_ with a passion for _revolutionizing the human condition_
+### I'm a _Computer Science student_ with a passion for _politics_
 
 Bacon ipsum dolor amet salami leberkas pig short loin porchetta frankfurter cupim
 drumstick meatball tongue alcatra. Turkey [prosciutto capicola](#) alcatra corned beef.
