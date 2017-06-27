@@ -2,13 +2,12 @@
 layout: default
 ---
 
-# Felix Wöstmann
+# felix wöstmann
 
 ### I'm a _Computer Science student_ with a passion for _politics_
 
-Bacon ipsum dolor amet salami leberkas pig short loin porchetta frankfurter cupim
-drumstick meatball tongue alcatra. Turkey [prosciutto capicola](#) alcatra corned beef.
 
-Capicola bresaola pig alcatra andouille porchetta strip steak prosciutto meatball filet
-mignon shank bacon pastrami. Chicken porchetta kielbasa, beef turkey kevin salami.
-Flank bresaola fatback, doner pig tongue alcatra meatball shankle swine jerky.
+
+  In my spare time I like to tinker around with Software, listen extensively to podcasts (also trying to make one) and engaging in the _Pirateparty_.
+
+  My favorite way to get from A to B is my Pennyboard. I consider myself an _European_.

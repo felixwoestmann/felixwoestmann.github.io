@@ -1,10 +1,10 @@
-title: Joe Cool's Online Biography
+title: It's me Felix
 
-email: hello@joecool.com
-github_url: https://github.com/joecool
+email: kontakt@felixwoestmann.me
+github_url: https://github.com/LostInCoding
 linkedin_url: https://linkedin.com/in/joecool
-medium_url: https://medium.com/joecool
-twitter_url: https://twitter.com/joecool
+blog_url: https://lostincoding.de
+twitter_url: https://twitter.com/LostInCoding
 
 exclude: screenshots, LICENSE, README.md
 markdown: kramdown
