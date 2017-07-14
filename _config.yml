@@ -5,6 +5,7 @@ github_url: https://github.com/LostInCoding
 linkedin_url: https://linkedin.com/in/joecool
 blog_url: https://projects.lostincoding.de
 twitter_url: https://twitter.com/LostInCoding
+keybase_url: https://keybase.io/LostInCoding
 
 exclude: screenshots, LICENSE, README.md
 markdown: kramdown
