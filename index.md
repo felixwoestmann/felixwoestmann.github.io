@@ -4,7 +4,7 @@ layout: default
 
 # felix wöstmann
 
-### I'm a _Computer Science student_ with a passion for _politics_
+### I'm a _Computer Science student_ with a passion for _politics_.
 
 
 
