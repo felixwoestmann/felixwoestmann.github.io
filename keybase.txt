@@ -6,64 +6,46 @@ I hereby claim:
 
   * I am an admin of http://felixwoestmann.me
   * I am lostincoding (https://keybase.io/lostincoding) on keybase.
-  * I have a public key with fingerprint 8937 613F 0CE7 140D 500E  244E E879 8D1C A0CB 9008
+  * I have a public key ASAhXKtaBLf-y7DWak_oMKVApyS_nvPLt0ou4xW0SJJnvwo
 
 To do so, I am signing this object:
 
 {
-    &quot;body&quot;: {
-        &quot;key&quot;: {
-            &quot;eldest_kid&quot;: &quot;01012e4e4c7f65d451b7f3aa6e74ad67174266985199327279effe49229915590c150a&quot;,
-            &quot;fingerprint&quot;: &quot;8937613f0ce7140d500e244ee8798d1ca0cb9008&quot;,
-            &quot;host&quot;: &quot;keybase.io&quot;,
-            &quot;key_id&quot;: &quot;e8798d1ca0cb9008&quot;,
-            &quot;kid&quot;: &quot;01012e4e4c7f65d451b7f3aa6e74ad67174266985199327279effe49229915590c150a&quot;,
-            &quot;uid&quot;: &quot;c297f77b6a5f2abe8f5f98c0ae586219&quot;,
-            &quot;username&quot;: &quot;lostincoding&quot;
-        },
-        &quot;service&quot;: {
-            &quot;hostname&quot;: &quot;felixwoestmann.me&quot;,
-            &quot;protocol&quot;: &quot;http:&quot;
-        },
-        &quot;type&quot;: &quot;web_service_binding&quot;,
-        &quot;version&quot;: 1
+  "body": {
+    "key": {
+      "eldest_kid": "0120215cab5a04b7fecbb0d66a4fe830a540a724bf9ef3cbb74a2ee315b4489267bf0a",
+      "host": "keybase.io",
+      "kid": "0120215cab5a04b7fecbb0d66a4fe830a540a724bf9ef3cbb74a2ee315b4489267bf0a",
+      "uid": "c297f77b6a5f2abe8f5f98c0ae586219",
+      "username": "lostincoding"
     },
-    &quot;ctime&quot;: 1500567078,
-    &quot;expire_in&quot;: 157680000,
-    &quot;prev&quot;: &quot;be30116544822a9ae9d0aaf700eca5f29dc885d944433b28b4102f99fd970def&quot;,
-    &quot;seqno&quot;: 11,
-    &quot;tag&quot;: &quot;signature&quot;
+    "merkle_root": {
+      "ctime": 1516193099,
+      "hash": "0a124c31ece4ee6ddcefa8a4149f03a0c84d629e9271383bbd4ee1f5d0e6201d374369772214b6b8066d0f4ad7fca5991efcbd809dd2303e50088dccc0b623ec",
+      "hash_meta": "5762395a8e2450b68c3876d9896dba267d02a3846ef70f60158309f37512015d",
+      "seqno": 1936547
+    },
+    "service": {
+      "hostname": "felixwoestmann.me",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.39"
+  },
+  "ctime": 1516193142,
+  "expire_in": 504576000,
+  "prev": "9a467ae949c4b9e566b1cd15501db3150a3890aa125ce9a8f8d14ec585e05833",
+  "seqno": 37,
+  "tag": "signature"
 }
 
 which yields the signature:
 
------BEGIN PGP MESSAGE-----
-Version: GnuPG v1
-
-owGtUm1QVFUYZpe1iBAdrPyAwO6gMrRu5969d+89m0IzZg6bEAI/YEi3+3HucuW6
-d727sCJDklMKTiCBIOhQBqVOkDHRAIYfaGUijpY18uWkNcAgjJOtopAC3cvYv352
-/pw57/u8z/s873kr5gcHGQ2jBWVRR3oqQgw9t7mgLM91cyHGKUIBZi/EctHchWQB
-eX3OXEnA7BjAAU4gEpE8LdoogaRwjhatLGtDNMkKNhqnScJmgwyFQ2glaIKGSBQR
-CQkCQpyiIOBxCrCYGRMltwupHlVy+zRaBlppG24VAY9onAQCBQAiSBIhhoaMgPMs
-4DkIAKMV5ihevUITx7FeZJEULaY9nHPy/gP/P+vOm6PjCUiLNM3ZWEokWA4xIiVC
-hgcsohgbgUMd6EWqm92GNLSsSZbcvCJonrEiM6Zl8iUe6cPV3TxBiUiWdvgVbdbb
-WLfbosXMmEdVfAqvyFo6x+fz2PVqX4FHh/sR53xC5OQk9xy3GctHqldS3Jgd15C8
-T9KZNeWAstGAZswY2uGRVOSUdARF2xigHb0NysfsLMYhK8BxG0WSDEGwkEVQACwr
-0tpv8LpTKPAMQwmQJEmrlSMYjsQBIUIoCpAGAhIx3dt2t6KR45pQ1qXp9EouN+vL
-UxFWFFpqjDIFGYxBT80z6qsWFPrMwn/3L616wYxFaJne0nUjc2Xt5NnI7E8Wq6vT
-YXWG58sbTvjRt38OvrXvAsyItNWVODozyxKid5e2Hpa/CM9utoy86V+TMm9/Y83Q
-0XT1nQ/vbPg1sHw4NC157Sb3iYcTZw6uravtzVvf4Zqa6BkaFZpea1caXj60a8Pk
-9M9+ePFWJ5W42+RQTydHhmCp5kWXHAeYJsAcqb5cuc8EQPhscaFpb83s7ca3z7Su
-q5LHlnr7k4ZnBlDCoxVXuup+ycwoz/BXHh+KDXshUX62IztyySnakdq9dHR+anzD
-zYb+rzfbH99v3rPY32aMyKpa1pbIyDO/Xx84Wbw1Jefc4M7iQ9klk8m5KcopU0xB
-Xs134YErFZVxszXtSZWHz+Ox+ceSyk8sGpRbr/0gr6kfUa1hR1+J2drbEprr2lXO
-tz1Ysvo5bsv26qjXp9+9O7a52zlU8cc9Q/QD3HU/pPP8pfqnm6/1xDtvPQze2b7c
-v2JVZsfUBwdrLvQN9sjf3wn8dCz+pMkhlX3uzG/95urZ7pZHTZeN1ZvuRq8bd7Cn
-u8r7b4Iwb9h48MWAmY7+e8GyV+tTP0757P3ukVh62CCpBb76dC+bl1m1cHy9bw98
-cSRtZYSFLylvXDUA/FeLNh74LVF6PtBp6Dv+Bl/6Y0Rf1qcvxXGpOcP3Nkq15/aP
-fdVLhbY8ngoL5OyNsfwlT8S9l5zwDw==
-=Sd8n
------END PGP MESSAGE-----
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgIVyrWgS3/suw1mpP6DClQKckv57zy7dKLuMVtEiSZ78Kp3BheWxvYWTFA017ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMjE1Y2FiNWEwNGI3ZmVjYmIwZDY2YTRmZTgzMGE1NDBhNzI0YmY5ZWYzY2JiNzRhMmVlMzE1YjQ0ODkyNjdiZjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMjE1Y2FiNWEwNGI3ZmVjYmIwZDY2YTRmZTgzMGE1NDBhNzI0YmY5ZWYzY2JiNzRhMmVlMzE1YjQ0ODkyNjdiZjBhIiwidWlkIjoiYzI5N2Y3N2I2YTVmMmFiZThmNWY5OGMwYWU1ODYyMTkiLCJ1c2VybmFtZSI6Imxvc3RpbmNvZGluZyJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUxNjE5MzA5OSwiaGFzaCI6IjBhMTI0YzMxZWNlNGVlNmRkY2VmYThhNDE0OWYwM2EwYzg0ZDYyOWU5MjcxMzgzYmJkNGVlMWY1ZDBlNjIwMWQzNzQzNjk3NzIyMTRiNmI4MDY2ZDBmNGFkN2ZjYTU5OTFlZmNiZDgwOWRkMjMwM2U1MDA4OGRjY2MwYjYyM2VjIiwiaGFzaF9tZXRhIjoiNTc2MjM5NWE4ZTI0NTBiNjhjMzg3NmQ5ODk2ZGJhMjY3ZDAyYTM4NDZlZjcwZjYwMTU4MzA5ZjM3NTEyMDE1ZCIsInNlcW5vIjoxOTM2NTQ3fSwic2VydmljZSI6eyJob3N0bmFtZSI6ImZlbGl4d29lc3RtYW5uLm1lIiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4zOSJ9LCJjdGltZSI6MTUxNjE5MzE0MiwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiI5YTQ2N2FlOTQ5YzRiOWU1NjZiMWNkMTU1MDFkYjMxNTBhMzg5MGFhMTI1Y2U5YThmOGQxNGVjNTg1ZTA1ODMzIiwic2Vxbm8iOjM3LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQJsu+/NSl8cSqtf/ebTY1Gyx0opw28NpQ/s2LEu5vMTupYc76ewyvQ7eibINv4NW6U9ezB4j9mtkqktoNLqZkASoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCBfckwglHYiw82gvEEm1hboxkw8wEiJ1f8E+8cL11/DdaN0YWfNAgKndmVyc2lvbgE=
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
