@@ -10,4 +10,4 @@ layout: default
 
   In my spare time I like to tinker around with software, read non-fiction books, listen extensively to podcasts (also trying to make some) and engaging in the _Pirateparty_.
 
-  My favorite way to get from A to B is my Pennyboard. I consider myself an _European_. On the internet I go by the name of _lostincoding_.
+  My favorite way to get from A to B is my Pennyboard. I consider myself a _European_. On the internet I go by the name of _lostincoding_.
