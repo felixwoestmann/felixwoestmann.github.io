@@ -8,6 +8,6 @@ layout: default
 
 
 
-  In my spare time I like to tinker around with software, read non-fiction books, listen extensively to podcasts and trying to _make some on my own_.
+  In my spare time I like to tinker around with software, read non-fiction books, listen extensively to podcasts and trying to _create some on my own_.
 
   My favorite way to get from A to B is my Pennyboard. I consider myself a _European_. On the internet I go by the name of _lostincoding_.
