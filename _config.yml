@@ -2,10 +2,7 @@ title: It's me, Felix
 
 email: kontakt@felixwoestmann.me
 github_url: https://github.com/LostInCoding
-linkedin_url: https://linkedin.com/in/joecool
 blog_url: https://projects.felixwoestmann.me
-twitter_url: https://twitter.com/LostInCoding
-keybase_url: https://keybase.io/LostInCoding
 
 exclude: screenshots, LICENSE, README.md
 markdown: kramdown
