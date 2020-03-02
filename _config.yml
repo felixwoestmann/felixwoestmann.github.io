@@ -1,8 +1,0 @@
-title: It's me, Felix
-
-email: kontakt@felixwoestmann.me
-github_url: https://github.com/LostInCoding
-blog_url: https://projects.felixwoestmann.me
-
-exclude: screenshots, LICENSE, README.md
-markdown: kramdown
