@@ -1,7 +1,7 @@
 # Site settings
 title: Felix Wöstmann
 description: Felix Wöstmann Visitenkarte
- baseurl: "/" 
+#baseurl: "/" 
 
 # User settings
 username: Felix Wöstmann
