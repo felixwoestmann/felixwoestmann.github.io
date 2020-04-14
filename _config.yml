@@ -1,8 +1,7 @@
 # Site settings
 title: Felix Wöstmann
 description: Felix Wöstmann Visitenkarte
-# baseurl: "" # the subpath of your site, e.g. /blog
-# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+ baseurl: "/" 
 
 # User settings
 username: Felix Wöstmann
