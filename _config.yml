@@ -1,18 +1,18 @@
 # Site settings
 title: Felix Wöstmann
 description: Felix Wöstmann Visitenkarte
-#baseurl: "/" 
+#baseurl: "/"
 
 # User settings
 username: Felix Wöstmann
-user_description:  
-user_title: Software Engineer
+user_description:
+user_title: Computational Social Scientist
 email: kontakt@felixwoestmann.me
-github_username:  felixwoestmann
-instagram_username:  woestmann.felix
+github_username: felixwoestmann
+instagram_username: woestmann.felix
 
 # Google-analytics
 google-analytics:
   id: ""
 
-exclude: ['package.json', 'src' , 'node_modules']
+exclude: ["package.json", "src", "node_modules"]
